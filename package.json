@@ -1,0 +1,26 @@
+{
+  "name": "nodesjs",
+  "version": "1.0.0",
+  "description": "ES UNA PRUEBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrakthinK/git-repository.git"
+  },
+  "keywords": [
+    "NODES",
+    "NAXXIII"
+  ],
+  "author": "DraKthinK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrakthinK/git-repository/issues"
+  },
+  "homepage": "https://github.com/DrakthinK/git-repository#readme",
+  "dependencies": {
+    "color": "^3.1.0"
+  }
+}
